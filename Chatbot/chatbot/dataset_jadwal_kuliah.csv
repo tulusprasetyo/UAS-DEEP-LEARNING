@@ -1,0 +1,16 @@
+hari,jam_mulai,jam_selesai,mata_kuliah,sks,semester,semester_tipe,dosen,lokasi
+Senin,08:20,10:00,Pemrograman Dasar,2,1,Ganjil,Dr. Rina Andayani,Laboratorium Komputer Dasar
+Senin,10:10,12:40,Matematika Diskrit,3,1,Ganjil,Muhammad Rizki,Laboratorium Komputer Dasar
+Senin,13:30,15:10,Struktur Data,2,3,Ganjil,Dra. Tuti Herlina,Laboratorium Komputer Multimedia
+Selasa,08:20,10:50,Basis Data,3,3,Ganjil,Dr. Budi Saputra,Laboratorium Komputer Multimedia
+Selasa,11:00,12:40,Etika Profesi,2,5,Ganjil,Siti Komariah M.Kom,Laboratorium Komputer Dasar
+Selasa,13:30,15:10,Rekayasa Perangkat Lunak,2,5,Ganjil,M. Arif,Laboratorium Komputer Dasar
+Rabu,08:20,10:50,Kecerdasan Buatan,3,7,Ganjil,Zikri Wahyuzi,Laboratorium Komputer Multimedia
+Rabu,11:00,12:40,Manajemen Proyek TI,2,7,Ganjil,Sri Utami,Laboratorium Komputer Dasar
+Rabu,13:30,15:10,Keamanan Jaringan,2,5,Ganjil,Dr. Rina Andayani,Laboratorium Komputer Multimedia
+Kamis,08:20,10:00,Pemrograman Web,2,3,Ganjil,Muhammad Rizki,Laboratorium Komputer Dasar
+Kamis,10:10,12:40,Sistem Operasi,3,3,Ganjil,Dr. Budi Saputra,Laboratorium Komputer Multimedia
+Kamis,13:30,15:10,Big Data,2,7,Ganjil,Zikri Wahyuzi,Laboratorium Komputer Multimedia
+Jumat,08:20,10:50,Data Mining,3,7,Ganjil,Dra. Tuti Herlina,Laboratorium Komputer Dasar
+Jumat,11:00,12:40,Interaksi Manusia dan Komputer,2,5,Ganjil,M. Arif,Laboratorium Komputer Dasar
+Jumat,13:30,15:10,Pengantar IoT,2,5,Ganjil,Siti Komariah M.Kom,Laboratorium Komputer Multimedia
